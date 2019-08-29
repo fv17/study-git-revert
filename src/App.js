@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   // 1回目コミット - あとでrevert対象
 
+  // 2回目コミット - こいつだけ残る想定
   return (
     <div className="App">
       <header className="App-header">
