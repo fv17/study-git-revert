@@ -24,9 +24,6 @@ function App() {
       </header>
     </div>
   );
-
-  // test1ブランチ - 1回目コミット
-  // test1ブランチ - 2回目コミット
 }
 
 export default App;
