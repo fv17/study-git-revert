@@ -30,3 +30,6 @@ function App() {
 }
 
 export default App;
+
+// test2ブランチ - 1回目コミット
+// test2ブランチ - 2回目コミット
